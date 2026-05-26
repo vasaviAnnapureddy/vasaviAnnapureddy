@@ -38,6 +38,7 @@ I'm an **AI & Data Science engineer** who cares about building systems that work
 | Project | What it does | Metrics |
 |---|---|---|
 | [🆘 **LifeLink**](https://github.com/vasaviAnnapureddy/Life-Link) | Full-stack disaster response — Android + Django + Gemini AI · Live on Render | ✅ Live |
+| [🧠 **Vasavi's Life OS**](https://github.com/vasaviAnnapureddy/vasavi-life-os) | Personal operating system — 20+ modules: Planner, Goals, Finance, Job Tracker, DS Roadmap, Gym, Books & more · Firebase + PWA | JavaScript · Firebase |
 | [🌏 **Earthquake Damage Prediction**](https://github.com/vasaviAnnapureddy/Earthquake-Nepal) | Predicted damage severity for 260,601 Nepal buildings · Stacking ensemble + SHAP | F1: 0.75 · QWK: 0.79 |
 | [✈️ **Flight Fare Prediction**](https://github.com/vasaviAnnapureddy/flight-fare-prediction) | TF-IDF route embeddings + stacking ensemble (XGBoost + LightGBM + RF → Ridge) | R²: 0.93 · MAE: ₹1,050 |
 | [📊 **AI Marketing Analytics**](https://github.com/vasaviAnnapureddy/ai_marketing_trends_project) | YouTube + Reddit → sentiment models → GPT/LLaMA campaign copy · Infosys | End-to-end pipeline |
