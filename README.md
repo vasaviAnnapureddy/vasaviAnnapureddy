@@ -93,9 +93,6 @@ I'm an **AI & Data Science engineer** who cares about building systems that work
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasaviAnnapureddy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9440f&text_color=ffffff" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasaviAnnapureddy&theme=dark&hide_border=true&background=0d1117&ring=c9440f&fire=c9440f&currStreakLabel=c9440f"/>
-</p>
 
 ---
 
