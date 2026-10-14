@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Vasavi Annapureddy 👋</h1>
 
 <p align="center">
-  <b>AI &amp; Data Science Engineer &nbsp;·&nbsp; Bangalore, India</b><br/>
-  B.Tech CSE (AI &amp; ML) &nbsp;·&nbsp; Alliance University &nbsp;·&nbsp; 84.6% &nbsp;·&nbsp; Class of 2025
+  <b>AI Engineer &nbsp;·&nbsp; Agentic &amp; GenAI Systems &nbsp;·&nbsp; Hyderabad, India</b><br/>
+  AI Developer @ Praxon Technologies &nbsp;·&nbsp; B.Tech CSE (AI &amp; ML) &nbsp;·&nbsp; Alliance University &nbsp;·&nbsp; 84.6% &nbsp;·&nbsp; Class of 2025
 </p>
 
 <p align="center">
@@ -21,15 +21,17 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI & Data Science engineer** who cares about building systems that work in the real world — not just models that look good in notebooks.
+I'm an **AI Engineer** specialising in Agentic AI, RAG systems, and full-stack AI products that actually ship.
 
-- 🚀 Built **LifeLink** — a live disaster response app powered by **Gemini 2.5 Flash**, deployed on Render, trained on 15 real Hyderabad emergency incident types
+- 🏢 **AI Developer @ Praxon Technologies** (Sep 2026–Present, Hyderabad) — building a ChatGPT-style RAG chatbot with React, FastAPI & pgvector; also shipped **Radhe Constructions** real estate BI console (live at [radhe-crm.vercel.app](https://radhe-crm.vercel.app))
+- 🤝 Built **JobPilot** — LangGraph multi-agent job-search system; cut LLM API calls ~90% via batching + Gemini→Groq fallback chain
+- 🆘 Built **LifeLink** — live disaster response app powered by **Gemini 2.5 Flash**, deployed on Render, trained on 15 real Hyderabad incident types
 - 🏢 Interned at **Infosys Springboard** (4-module AI marketing intelligence system) and **Wipro** (IT helpdesk chatbot that reduced ticket volume)
 - 📄 **IEEE Published** — AI-Powered Diet & Exercise Tracking System · Presidency University
 - ⚙️ **Patent Application in Progress** — Bio-Epoxy Hybrid Composite Analysis using AI/ML
 - 🥈 **2nd Prize** — Alliance One national innovation challenge (SDG-4 · Quality Education)
 - 🎓 **Coursera Campus Brand Ambassador** · **Google Developer Student Club** Event Manager · IPR Co-ordinator
-- 📍 Based in Bangalore &nbsp;|&nbsp; Open to full-time **AI/ML & Data Science** roles
+- 📍 Based in Hyderabad &nbsp;|&nbsp; Open to full-time **AI/ML Engineering** roles
 
 ---
 
@@ -37,11 +39,12 @@ I'm an **AI & Data Science engineer** who cares about building systems that work
 
 | Project | What it does | Metrics |
 |---|---|---|
-| [🆘 **LifeLink**](https://github.com/vasaviAnnapureddy/Life-Link) | Full-stack disaster response — Android + Django + Gemini AI · Live on Render | ✅ Live |
-| [🧠 **Vasavi's Life OS**](https://github.com/vasaviAnnapureddy/vasavi-life-os) | Personal operating system — 20+ modules: Planner, Goals, Finance, Job Tracker, DS Roadmap, Gym, Books & more · Firebase + PWA | JavaScript · Firebase |
-| [🌏 **Earthquake Damage Prediction**](https://github.com/vasaviAnnapureddy/Earthquake-Nepal) | Predicted damage severity for 260,601 Nepal buildings · Stacking ensemble + SHAP | F1: 0.75 · QWK: 0.79 |
-| [✈️ **Flight Fare Prediction**](https://github.com/vasaviAnnapureddy/flight-fare-prediction) | TF-IDF route embeddings + stacking ensemble (XGBoost + LightGBM + RF → Ridge) | R²: 0.93 · MAE: ₹1,050 |
-| [📊 **AI Marketing Analytics**](https://github.com/vasaviAnnapureddy/ai_marketing_trends_project) | YouTube + Reddit → sentiment models → GPT/LLaMA campaign copy · Infosys | End-to-end pipeline |
+| 🤖 **Praxon AI Chatbot** | ChatGPT-style RAG chatbot for Praxon Technologies — React + FastAPI + pgvector (Neon) · Team & client portals with role-based auth | ✅ Current |
+| 🏗️ [**Radhe Constructions Console**](https://radhe-crm.vercel.app) | Real estate CRM & BI dashboard — buyer portals, payment timelines, revenue analytics · Live on Vercel | ✅ Live |
+| 🤝 [**JobPilot**](https://github.com/vasaviAnnapureddy/JobPilot) | LangGraph multi-agent job-search system — RAG grading, resume tailoring, Gemini→Groq fallback · ~90% fewer LLM calls | Agentic AI |
+| 🆘 [**LifeLink**](https://github.com/vasaviAnnapureddy/Life-Link) | Full-stack disaster response — Android + Django + Gemini AI · Live on Render | ✅ Live |
+| 🧠 [**Vasavi Life OS**](https://github.com/vasaviAnnapureddy/vasavi-life-os) | Personal AI OS — 25+ modules: Planner, Goals, Finance, Gym, DSA Roadmap · Firebase + PWA + Groq/Claude | JavaScript · Firebase |
+| 🌏 [**Earthquake Damage Prediction**](https://github.com/vasaviAnnapureddy/Earthquake-Nepal) | Predicted damage severity for 260,601 Nepal buildings · Stacking ensemble + SHAP | F1: 0.75 · QWK: 0.79 |
 
 ---
 
@@ -66,22 +69,27 @@ I'm an **AI & Data Science engineer** who cares about building systems that work
 ![SHAP](https://img.shields.io/badge/SHAP-005F73?style=flat-square)
 ![Optuna](https://img.shields.io/badge/Optuna-3E4BC4?style=flat-square)
 
-**Generative AI**
+**GenAI / Agentic**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-c9440f?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=flat-square)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0064e0?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-c9440f?style=flat-square)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
 
-**Data & Tools**
+**Data & Backend**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
