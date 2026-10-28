@@ -9,7 +9,7 @@
   <a href="https://vasaviannapureddy.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-c9440f?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/vasaviannapureddy-a97491226">
+  <a href="https://linkedin.com/in/vasavi-annapureddy">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:annapuvasavi4014@gmail.com">
